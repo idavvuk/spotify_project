@@ -8,7 +8,9 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {},
+      colors: {
+        astroBlue: 'rgb(0, 45, 98)'
+      },
     },
   },
   plugins: [],

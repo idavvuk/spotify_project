@@ -53,6 +53,7 @@ const ListItem: React.FC<ListItemProps> = ({
             {name}
         </p>
         <div
+        //change color here 
         className="
             absolute
             transition
@@ -60,7 +61,7 @@ const ListItem: React.FC<ListItemProps> = ({
             rounded-full
             items-center
             justify-center
-            bg-green-500
+            bg-white
             p-4
             drop-shadow-md
             right-5
